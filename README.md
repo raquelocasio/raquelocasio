@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Raquel. I'm a web developer who is obsessed with WordPress andalso fascinated by data analysis.
+My name is Raquel. I'm a web developer who is obsessed with WordPress and also fascinated by data analysis.
 I'm currently working on earning a MS in Data Analytics from Western Governors University.
 I'm currently learning how to do time series, as well as sentiment analysis.
 Fun fact: before earning my BS in Web Design & Development, I taught myself web development by reading HTML For Dummies. Greatest book ever (at the time).
