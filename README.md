@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 - My name is Raquel. I'm a web developer who is obsessed with WordPress and also fascinated by data analysis.
 - I'm currently working on earning a MS in Data Analytics from Western Governors University.
-- I'm currently learning how to do sentiment analysis using Python.
+- Right now I'm learning how to do sentiment analysis using Python.
 - Fun fact: before earning my BS in Web Design & Development, I taught myself web development by reading [HTML For Dummies](https://ebay.us/f7zoun). Greatest book ever (at the time).
